@@ -13,4 +13,7 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-
+# Firebase / Secrets
+firebase_admin_key.json
+*.json
+.env
